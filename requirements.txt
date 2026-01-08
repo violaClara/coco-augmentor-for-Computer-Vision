@@ -1,0 +1,4 @@
+flask
+albumentations
+opencv-python-headless
+numpy
